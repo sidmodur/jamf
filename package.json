@@ -1,0 +1,27 @@
+{
+  "name": "palomar",
+  "version": "1.0.0",
+  "description": "TypeScript-native ODM for MongoDB like databases with Zod-based schemas and validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidmodur/Palomar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidmodur/Palomar/issues"
+  },
+  "homepage": "https://github.com/sidmodur/Palomar#readme",
+  "devDependencies": {
+    "@jest/globals": "^29.7.0",
+    "@types/node": "^22.13.10",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.6",
+    "typescript": "^5.8.2"
+  }
+}
