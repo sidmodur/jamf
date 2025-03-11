@@ -1,2 +1,2 @@
-# Palomar
-TypeScript-native ODM for MongoDB like databases with Zod-based schemas and validation
+# Jamf
+TypeScript-native ODM for MongoDB compatible databases with Zod-like schemas and validation
